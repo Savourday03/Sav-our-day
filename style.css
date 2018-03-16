@@ -1,23 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
+
+
 body{
   background: rgb(245,245,245);
   color: green ;
   font-size: 15px;
-  font-family: Rozha one;
+  font-family:Lato;
 }
 h1{
-  font-family: Rozha one;
+  font-family:Roboto;
   color: red;
   font-weight: lighter;
   font-size: 50px;
 }
 h2 {
-  font-family: Rozha one;
+  font-family:Lato;
   color: blue;
   font-weight: lighter;
   font-size: 15px;
 }
 a {
   color: red;
+}
 }
 a:hover {
   text-decoration: none;
@@ -58,6 +62,10 @@ h5 {
 #footer{
   padding: 10px;
     background: rgb(30, 30, 30);
-    color: lightgrey;
+    color: white;
     text-align: center;
+    background-color: white;
+}
+body{
+  background-color: white;
 }
